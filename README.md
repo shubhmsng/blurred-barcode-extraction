@@ -1,5 +1,5 @@
 # blurred-barcode-extraction <br>
-Application : <br>
-barcode data extraction from blurred and small size image.<br>
-Technology used:<br>
+<b>Application :</b> <br>
+barcode dtection and extraction from blurred and small size image.<br>
+<b>Technology used:</b><br>
 Python. numpy, OpenCV, PyQT4
